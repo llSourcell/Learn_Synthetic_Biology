@@ -37,5 +37,6 @@
 - Browse iGem Projects
 
 ## Final Project: Write DNA
-- Write a (GFB) Fluorescent Circuit in Cello, print with Twist BioScience, Insert https://sweetcode.io/designing-genetic-circuits-cello/ 
+- Replicate one of the iGEM projects that involve writing DNA https://igem.org/Previous_Competitions 
+- Alternatively: write a (GFB) Fluorescent Circuit in Cello, print with Twist BioScience, Insert https://sweetcode.io/designing-genetic-circuits-cello/ 
 
