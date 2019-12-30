@@ -1,7 +1,7 @@
 # Learn_Synthetic_Biology
 
 ### Preparation
-- Step 1: Follow everyone that the J Craig Venter Institute follows on Twitter
+- Step 1: Follow everyone that the [J Craig Venter Institute](https://twitter.com/JCVenterInst/following) follows on Twitter
 - Step 2: Start browsing the feed to learn what challenges & solutions the community is discussing
 
 ### Module 1: Learn Biology
