@@ -4,13 +4,13 @@
 - Step 1: Follow everyone that the [J Craig Venter Institute](https://twitter.com/JCVenterInst/following) follows on Twitter
 - Step 2: Start browsing the feed to learn what challenges & solutions the community is discussing
 
-### Module 1: Learn Biology
+### Module 1: Intro to Biology
 - MIT Intro to Biology https://ocw.mit.edu/courses/biology/7-012-introduction-to-biology-fall-2004/index.htm 
 
-### Module 2: Learn Biochemistry
+### Module 2: Intro to Biochemistry
 - OSU iTunes Biochemsitry https://itunes.apple.com/us/course/biochemistry/id556410409 
 
-### Module 3 Learn Genetics
+### Module 3 Intro to Genetics
 - Read “She Has her Mother’s Laugh” 
 
 ## Midterm Project: Read DNA
