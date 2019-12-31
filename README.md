@@ -11,15 +11,15 @@
 - OSU iTunes Biochemsitry https://itunes.apple.com/us/course/biochemistry/id556410409 
 
 ### Module 3 Intro to Genetics
-- Read “She Has her Mother’s Laugh” 
+- Read “She Has her Mother’s Laugh” https://www.amazon.com/She-Has-Her-Mothers-Laugh/dp/1101984597
 
 ## Midterm Project: Read DNA
 - Replicate this project but with a different genome https://github.com/lorarjohns/DNA_pandas_selenium 
 
 ### Module 4: Synthetic Biology Theory
 - Syn Biology One Course https://syntheticbiology1.com/  
-- Read Regenesis by George Church
-- Read BioBuilder by Kathryn Hart
+- Read Regenesis by George Church https://www.amazon.com/Regenesis-Synthetic-Biology-Reinvent-Ourselves/dp/0465075703
+- Read BioBuilder by Kathryn Hart https://www.amazon.com/BioBuilder-Synthetic-Biology-Natalie-Kuldell/dp/1491904291
 - Watch all Videos https://academic.oup.com/synbio/article/4/1/ysz022/5561104  
 - Read possible Genetic Modifications http://diyhpl.us/wiki/genetic-modifications/
 
