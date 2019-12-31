@@ -32,6 +32,7 @@
 
 ### Module 6: Practice Synthetic Biology
 - Labster Synthetic Biology Lab  https://www.labster.com/faculty_resources/synthetic-biology/ 
+- Genetic Engineering Kits https://www.the-odin.com/gene-engineering-kits/
 - Find a group near you https://diybio.org/local/
 - Read Basics and Applications http://synbio.info/display/synbio/Understanding+Synthetic+Biology
 - Browse iGem Projects
